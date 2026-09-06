@@ -114,7 +114,7 @@ AI-assisted inspection with human review:
 
 ## Screenshots / Prototype Preview
 
-![Basira prototype preview](src/assets/hero.png)
+![Basira prototype preview](src/assets/hero.jpg)
 ## Getting Started
 
 ```bash
